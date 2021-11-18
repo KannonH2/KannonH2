@@ -13,7 +13,7 @@ Long story short:
 
 🌎 Check my [portfolio](https://www.fer-dev.com/) (under Construction)
 
-I'm always doing some side projects, but I can't be bothered to keep my portfolio up to date. 
+I'm always doing some side projects
 
 Feel free to reach out 💬
 <!--
