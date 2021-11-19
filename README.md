@@ -11,7 +11,10 @@ Long story short:
 🥑 Eat 💻 Code 💪🏽 Train ♻️ Repeat
 
 
-🌎 Check my [portfolio](https://www.fer-dev.com/) (under Construction)
+<div align="left">
+     🌎 Check my <a href="https://www.fer-dev.com/" target="_blank" rel="noreferrer">portfolio</a> (under Construction)
+</div>
+ 
 
 I'm always doing some side projects
 
