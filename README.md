@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 </div>
 
 -----
-Credits: [Fer Haring](https://github.com/KanninH2)
+Credits: [Fer Haring](https://github.com/KannonH2)
 
 Last Edited on: 18/11/2021
