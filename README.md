@@ -1,6 +1,6 @@
 <!-- ![alt README header](https://) -->
 
-## Web Developer (JS, NodeJS & React)
+## Web Developer (JS, NodeJS, React && Typescript)
 
 🔭 Currently working at my Own. I work with great people and we are using great technologies! 
 
